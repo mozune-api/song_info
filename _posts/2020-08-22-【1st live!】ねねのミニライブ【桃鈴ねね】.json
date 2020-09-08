@@ -1,0 +1,16 @@
+---
+infos:
+    - name: Rising Hope / LiSA
+      startat: 00:07:38
+    - name: おジャ魔女カーニバル / MAHO堂
+      startat: 00:15:40
+    - name: からくりピエロ / 40㍍P
+      startat: 00:26:32
+    - name: 生きてこそ / キロロ
+      startat: 00:44:15
+    - name: 流れ星キセキ / new generation
+      startat: 00:53:44
+    - name: 君の知らない物語 / supercell
+      startat: 01:03:48
+---
+{{ page.infos | jsonify}}
